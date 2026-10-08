@@ -1,0 +1,10 @@
+{
+  "name": "todo-javascript",
+  "version": "1.0.0",
+  "description": "JSON dosyasına kalıcı yapan basit yapılacaklar listesi",
+  "main": "todo.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
